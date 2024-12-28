@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    height: 50px;
+    background-color: aqua;
+    font-size: 40px;
+}
+
+a{
+    margin: 40%;  
+    font-size: 60px;
+    text-align: center;
+}
